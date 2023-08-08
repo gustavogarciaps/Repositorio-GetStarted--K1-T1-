@@ -19,6 +19,6 @@ git clone <url>
 ```
 Utiliza para clonar um repositório remoto.
 ```
-git remote set-url origin <url>
+git remote add origin <url>
 ```
 Conectar com o repositório remoto. A URL será armazenada na "variável" origin.
